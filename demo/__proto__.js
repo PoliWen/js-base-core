@@ -24,3 +24,4 @@ const hua = new Person('刘德华',48)
 hua.sayHello() // 静态方法不能被直接实例对象调用，应该使用Person.sayHello()
 Person.sayHello()
 hua.intro()
+
